@@ -1,2 +1,3 @@
 # coolweather
-leaning how to use github,a weather app.
+郭神 第二行代码练习的项目 
+ 
